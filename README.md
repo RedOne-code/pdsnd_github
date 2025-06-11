@@ -29,6 +29,7 @@ Run the script from the terminal using:
 
 ```bash
 python bikeshare_2.py
+```
 
 You will be prompted to:
 1. Select a city (Chicago, New York City, or Washington)
