@@ -15,5 +15,6 @@ Users can apply filters by city, month, and day of the week to view various stat
 - `washington.csv` – Bikeshare data for Washington
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+- Developed as part of the [Udacity Programming for Data Science with Python   Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
+- Git Style Guide: https://udacity.github.io/git-styleguide/
 
