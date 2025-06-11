@@ -35,6 +35,16 @@ You will be prompted to:
 2. Optionally filter by month and day
 3. View statistics based on the filtered dataset
 
+### Features
+
+- Filter by city, month, and day of week
+- View:
+  - Most common times of travel
+  - Popular stations and trips
+  - Trip duration statistics
+  - User statistics
+- Option to display raw data in chunks of 5 rows
+
 ### Credits
 - Developed as part of the [Udacity Programming for Data Science with Python   Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
 - Git Style Guide: https://udacity.github.io/git-styleguide/
