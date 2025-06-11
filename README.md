@@ -5,7 +5,8 @@ June, 2025
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This Python script allows users to explore bikeshare data from three major U.S. cities: **Chicago**, **New York City**, and **Washington**.  
+Users can apply filters by city, month, and day of the week to view various statistics like the most common travel times, stations, trip durations, and user types.
 
 ### Files used
 Include the files used
