@@ -45,6 +45,10 @@ You will be prompted to:
   - User statistics
 - Option to display raw data in chunks of 5 rows
 
+### Known Issues
+
+- The Washington dataset does not include gender or birth year data.
+
 ### Credits
 - Developed as part of the [Udacity Programming for Data Science with Python   Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
 - Git Style Guide: https://udacity.github.io/git-styleguide/
