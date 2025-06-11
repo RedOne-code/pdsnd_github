@@ -19,6 +19,22 @@ Users can apply filters by city, month, and day of the week to view various stat
 - `pandas`
 - `numpy`
 
+> Install required libraries with:
+> ```bash
+> pip install pandas numpy
+> ```
+
+### How to Run
+Run the script from the terminal using:
+
+```bash
+python bikeshare_2.py
+
+You will be prompted to:
+1. Select a city (Chicago, New York City, or Washington)
+2. Optionally filter by month and day
+3. View statistics based on the filtered dataset
+
 ### Credits
 - Developed as part of the [Udacity Programming for Data Science with Python   Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
 - Git Style Guide: https://udacity.github.io/git-styleguide/
